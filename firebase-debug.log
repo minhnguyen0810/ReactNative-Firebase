@@ -1,0 +1,70 @@
+[debug] [2020-08-06T09:41:56.397Z] ----------------------------------------------------------------------
+[debug] [2020-08-06T09:41:56.399Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2020-08-06T09:41:56.399Z] CLI Version:   3.17.2
+[debug] [2020-08-06T09:41:56.399Z] Platform:      win32
+[debug] [2020-08-06T09:41:56.399Z] Node Version:  v14.7.0
+[debug] [2020-08-06T09:41:56.400Z] Time:          Thu Aug 06 2020 16:41:56 GMT+0700 (Indochina Time)
+[debug] [2020-08-06T09:41:56.401Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2020-08-06T09:41:56.413Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2020-08-06T09:41:56.413Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Courses\ReactNative\ReactNative-Firebase
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2020-08-06T09:42:00.044Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+  
+ Thu Aug 06 2020 16:42:00 GMT+0700 (Indochina Time)
+[debug] [2020-08-06T09:42:21.276Z] Error: connect ETIMEDOUT 104.197.85.31:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
+[debug] [2020-08-06T09:46:26.402Z] ----------------------------------------------------------------------
+[debug] [2020-08-06T09:46:26.405Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2020-08-06T09:46:26.405Z] CLI Version:   3.17.2
+[debug] [2020-08-06T09:46:26.405Z] Platform:      win32
+[debug] [2020-08-06T09:46:26.405Z] Node Version:  v14.7.0
+[debug] [2020-08-06T09:46:26.406Z] Time:          Thu Aug 06 2020 16:46:26 GMT+0700 (Indochina Time)
+[debug] [2020-08-06T09:46:26.406Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2020-08-06T09:46:26.418Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2020-08-06T09:46:26.419Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Courses\ReactNative\ReactNative-Firebase
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2020-08-06T09:46:34.085Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+  
+ Thu Aug 06 2020 16:46:34 GMT+0700 (Indochina Time)
+[debug] [2020-08-06T09:46:55.275Z] Error: connect ETIMEDOUT 104.197.85.31:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
