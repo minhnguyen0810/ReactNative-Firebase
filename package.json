@@ -17,7 +17,7 @@
     "expo-permissions": "^9.1.0",
     "expo-status-bar": "^1.0.2",
     "firebase": "^7.17.1",
-    "firebase-admin": "^9.0.0",
+    "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.9.0",
     "native-base": "^2.13.13",
     "react": "~16.11.0",
